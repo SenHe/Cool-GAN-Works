@@ -2,7 +2,7 @@
 
 This repository aims to collect intriguing GAN related works published in main AI conferences (e.g., CVPR, ICCV and ECCV) since 30 May 2021.
 
-*NOTE:* If your paper is not in the list, plese feel free to [raise an issue](https://github.com/SenHe/Cool-GAN-Works/edit/issues) or drop me an [e-mail](mailto:senhe752@gmail.com?subject=[GitHub]%fewshot%papers).
+*NOTE:* If your paper is not in the list, plese feel free to [raise an issue](https://github.com/SenHe/Cool-GAN-Works/issues) or drop me an [e-mail](mailto:senhe752@gmail.com?subject=[GitHub]%fewshot%papers).
 ## CVPR 2021
 HistoGAN: Controlling Colors of GAN-Generated and Real Images via Color Histograms [[paper link]](https://arxiv.org/pdf/2011.11731.pdf)
 
