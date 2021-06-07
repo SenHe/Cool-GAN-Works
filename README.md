@@ -6,6 +6,11 @@ This repository aims to collect intriguing GAN related works published in main A
 ## 2021
 | Title | link | Venue|
 | :-----|:-----|:-----|
+|Coarse-to-Fine: Facial Structure Editing of Portrait Images via Latent Space Classifications|[[paper link]](http://www.cad.zju.edu.cn/home/jin/sig2021/sig2021.htm)|siggraph|
+|AgileGAN: Stylizing Portraits by Inversion-Consistent Transfer Learning|[[paper link]](https://guoxiansong.github.io/homepage/paper/AgileGAN.pdf)|siggraph|
+|StyleCariGAN:Caricature Generation via StyleGAN Feature Map Modulation|[[paper link](https://github.com/PeterZhouSZ/StyleCariGAN)]|siggraph|
+|Only a Matter of Style: Age Transformation Using a Style-Based Regression Model|[[paper link]](https://arxiv.org/pdf/2102.02754.pdf)|siggraph|
+|Designing an Encoder for StyleGAN Image Manipulation|[[paper link]](https://arxiv.org/pdf/2102.02766.pdf)|siggraph|
 |StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery|[[paper link]](https://arxiv.org/pdf/2103.17249.pdf)|-|
 |HistoGAN: Controlling Colors of GAN-Generated and Real Images via Color Histograms| [[paper link]](https://arxiv.org/pdf/2011.11731.pdf)| CVPR|
 |Image Generators with Conditionally-Independent Pixel Synthesis| [[paper link]](https://arxiv.org/pdf/2011.13775)|CVPR|
