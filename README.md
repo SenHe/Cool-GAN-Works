@@ -6,6 +6,7 @@ This repository aims to collect intriguing GAN related works published in main A
 ## 2021
 | Title | link | Venue|
 | :-----|:-----|:-----|
+|Paint by Word|[[link]](https://arxiv.org/pdf/2103.10951.pdf)|-|
 |Coarse-to-Fine: Facial Structure Editing of Portrait Images via Latent Space Classifications|[[link]](http://www.cad.zju.edu.cn/home/jin/sig2021/sig2021.htm)|SIGGRAPH|
 |AgileGAN: Stylizing Portraits by Inversion-Consistent Transfer Learning|[[link]](https://guoxiansong.github.io/homepage/paper/AgileGAN.pdf)|SIGGRAPH|
 |StyleCariGAN:Caricature Generation via StyleGAN Feature Map Modulation|[[link](https://github.com/PeterZhouSZ/StyleCariGAN)]|SIGGRAPH|
