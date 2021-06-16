@@ -1,11 +1,12 @@
 # Cool-GAN-Works
 
-This repository aims to collect intriguing GAN related works published in main AI conferences (e.g., CVPR, ICCV and ECCV) since 30 May 2021.
+This repository aims to collect intriguing generative models published in main AI conferences (e.g., CVPR, ICCV and ECCV) since 30 May 2021.
 
 *NOTE:* If your paper is not in the list, plese feel free to [raise an issue](https://github.com/SenHe/Cool-GAN-Works/issues) or drop me an [e-mail](mailto:senhe752@gmail.com?subject=[GitHub]%fewshot%papers).
 ## 2021
 | Title | link | Venue|
 | :-----|:-----|:-----|
+|D2C: Diffusion-Decoding Models for Few-Shot Conditional Generation|[[link]](https://arxiv.org/pdf/2106.06819.pdf)|-|
 |GANs N’ Roses: Stable, Controllable, Diverse Image to Image Translation (works for videos too!)|[[link]](https://arxiv.org/pdf/2106.06561.pdf)|-|
 |Paint by Word|[[link]](https://arxiv.org/pdf/2103.10951.pdf)|-|
 |Coarse-to-Fine: Facial Structure Editing of Portrait Images via Latent Space Classifications|[[link]](http://www.cad.zju.edu.cn/home/jin/sig2021/sig2021.htm)|SIGGRAPH|
