@@ -1,6 +1,6 @@
 # Cool-GAN-Works
 
-This repository aims to collect intriguing generative models published in main AI conferences (e.g., CVPR, ICCV and ECCV) since 30 May 2021.
+This repository aims to collect cool generative models published in main AI conferences (e.g., CVPR, ICCV and ECCV) since 30 May 2021.
 
 *NOTE:* If your paper is not in the list, plese feel free to [raise an issue](https://github.com/SenHe/Cool-GAN-Works/issues) or drop me an [e-mail](mailto:senhe752@gmail.com?subject=[GitHub]%fewshot%papers).
 ## 2021
