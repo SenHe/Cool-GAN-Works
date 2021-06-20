@@ -6,6 +6,7 @@ This repository aims to collect cool generative models published in main AI conf
 ## 2021
 | Title | link | Venue|
 | :-----|:-----|:-----|
+|InfinityGAN: Towards Infinite-Resolution Image Synthesis|[[link]](https://arxiv.org/pdf/2104.03963.pdf)|-|
 |D2C: Diffusion-Decoding Models for Few-Shot Conditional Generation|[[link]](https://arxiv.org/pdf/2106.06819.pdf)|-|
 |GANs N’ Roses: Stable, Controllable, Diverse Image to Image Translation (works for videos too!)|[[link]](https://arxiv.org/pdf/2106.06561.pdf)|-|
 |Paint by Word|[[link]](https://arxiv.org/pdf/2103.10951.pdf)|-|
