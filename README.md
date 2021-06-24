@@ -6,6 +6,7 @@ This repository aims to collect cool generative models published in main AI conf
 ## 2021
 | Title | link | Venue|
 | :-----|:-----|:-----|
+|Zero-Shot non-adversarial domain adaptation of pre-trained generators|[[link]](https://github.com/rinongal/StyleGAN-nada)|-|
 |Alias-Free Generative Adversarial Networks|[[link]](https://nvlabs-fi-cdn.nvidia.com/alias-free-gan/alias-free-gan-paper.pdf)|-|
 |InfinityGAN: Towards Infinite-Resolution Image Synthesis|[[link]](https://arxiv.org/pdf/2104.03963.pdf)|-|
 |D2C: Diffusion-Decoding Models for Few-Shot Conditional Generation|[[link]](https://arxiv.org/pdf/2106.06819.pdf)|-|
