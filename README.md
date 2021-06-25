@@ -18,6 +18,7 @@ This repository aims to collect cool generative models published in main AI conf
 |Only a Matter of Style: Age Transformation Using a Style-Based Regression Model|[[link]](https://arxiv.org/pdf/2102.02754.pdf)|SIGGRAPH|
 |Designing an Encoder for StyleGAN Image Manipulation|[[link]](https://arxiv.org/pdf/2102.02766.pdf)|SIGGRAPH|
 |StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery|[[link]](https://arxiv.org/pdf/2103.17249.pdf)|-|
+|One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing|[[link]](https://arxiv.org/abs/2011.15126)|CVPR|
 |Few-shot Image Generation via Cross-domain Correspondence|[[link](https://arxiv.org/pdf/2104.06820.pdf)]|CVPR|
 |HistoGAN: Controlling Colors of GAN-Generated and Real Images via Color Histograms| [[link]](https://arxiv.org/pdf/2011.11731.pdf)| CVPR|
 |Image Generators with Conditionally-Independent Pixel Synthesis| [[link]](https://arxiv.org/pdf/2011.13775)|CVPR|
