@@ -1,4 +1,4 @@
-# Cool-GAN-Works
+# Cool-Generative-Works
 
 This repository aims to collect cool generative models published in main AI conferences (e.g., CVPR, ICCV and ECCV) since 30 May 2021.
 
@@ -6,6 +6,7 @@ This repository aims to collect cool generative models published in main AI conf
 ## 2021
 | Title | link | Venue|
 | :-----|:-----|:-----|
+|Simple and Effective VAE Training with Calibrated Decoders|[[link]](https://arxiv.org/pdf/2006.13202.pdf)|ICML|
 |CLIPDraw: Exploring Text-to-Drawing Synthesis through Language-Image Encoders|[[link]](https://arxiv.org/pdf/2106.14843.pdf)|-|
 |Zero-Shot non-adversarial domain adaptation of pre-trained generators|[[link]](https://github.com/rinongal/StyleGAN-nada)|-|
 |Alias-Free Generative Adversarial Networks|[[link]](https://nvlabs-fi-cdn.nvidia.com/alias-free-gan/alias-free-gan-paper.pdf)|-|
