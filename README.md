@@ -6,6 +6,7 @@ This repository aims to collect cool generative models published in main AI conf
 ## 2021
 | Title | link | Venue|
 | :-----|:-----|:-----|
+|StyleVideoGAN: A Temporal Generative Model using a Pretrained StyleGAN|[[link]](https://arxiv.org/pdf/2107.07224v1.pdf)|-|
 |Simple and Effective VAE Training with Calibrated Decoders|[[link]](https://arxiv.org/pdf/2006.13202.pdf)|ICML|
 |CLIPDraw: Exploring Text-to-Drawing Synthesis through Language-Image Encoders|[[link]](https://arxiv.org/pdf/2106.14843.pdf)|-|
 |Zero-Shot non-adversarial domain adaptation of pre-trained generators|[[link]](https://github.com/rinongal/StyleGAN-nada)|-|
