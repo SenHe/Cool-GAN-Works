@@ -6,6 +6,7 @@ This repository aims to collect cool generative models published in main AI conf
 ## 2021
 | Title | link | Venue|
 | :-----|:-----|:-----|
+|Sketch Your Own GAN|[[link]](https://arxiv.org/pdf/2108.02774.pdf)|ICCV|
 |Image Synthesis and Editing with Stochastic Differential Equations|[[link]](https://arxiv.org/pdf/2108.01073.pdf)|-|
 |StyleVideoGAN: A Temporal Generative Model using a Pretrained StyleGAN|[[link]](https://arxiv.org/pdf/2107.07224v1.pdf)|-|
 |Simple and Effective VAE Training with Calibrated Decoders|[[link]](https://arxiv.org/pdf/2006.13202.pdf)|ICML|
