@@ -11,6 +11,7 @@ This repository aims to collect cool generative models published in main AI conf
 |Sketch Your Own GAN|[[link]](https://arxiv.org/pdf/2108.02774.pdf)|ICCV|
 |Image Synthesis and Editing with Stochastic Differential Equations|[[link]](https://arxiv.org/pdf/2108.01073.pdf)|-|
 |StyleVideoGAN: A Temporal Generative Model using a Pretrained StyleGAN|[[link]](https://arxiv.org/pdf/2107.07224v1.pdf)|-|
+|Generative Adversarial Transformers|[[link]](https://arxiv.org/pdf/2103.01209.pdf)|ICML|
 |Simple and Effective VAE Training with Calibrated Decoders|[[link]](https://arxiv.org/pdf/2006.13202.pdf)|ICML|
 |CLIPDraw: Exploring Text-to-Drawing Synthesis through Language-Image Encoders|[[link]](https://arxiv.org/pdf/2106.14843.pdf)|-|
 |Zero-Shot non-adversarial domain adaptation of pre-trained generators|[[link]](https://github.com/rinongal/StyleGAN-nada)|-|
