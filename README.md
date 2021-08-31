@@ -6,6 +6,7 @@ This repository aims to collect cool generative models published in main AI conf
 ## 2021
 | Title | link | Venue|
 | :-----|:-----|:-----|
+|3DStyleNet: Creating 3D Shapes with Geometric and Texture Style Variations|[[link]](https://nv-tlabs.github.io/3DStyleNet/assets/3dstyle-paper.pdf)|ICCV|
 |Frequency Domain Image Translation: More Photo-realistic, Better Identity-preserving|[[link]](https://arxiv.org/pdf/2011.13611.pdf)|ICCV|
 |ILVR: Conditioning Method for Denoising Diffusion Probabilistic Models|[[link]](https://arxiv.org/pdf/2108.02938.pdf)|ICCV|
 |Sketch Your Own GAN|[[link]](https://arxiv.org/pdf/2108.02774.pdf)|ICCV|
