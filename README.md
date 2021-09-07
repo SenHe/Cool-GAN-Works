@@ -6,6 +6,10 @@ This repository aims to collect cool generative models published in main AI conf
 ## 2021
 | Title | link | Venue|
 | :-----|:-----|:-----|
+|StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery|[[link]](https://arxiv.org/pdf/2103.17249.pdf)|ICCV|
+|From Continuity to Editability: Inverting GANs with Consecutive Images|[[link]](https://arxiv.org/pdf/2107.13812.pdf)|ICCV|
+|EigenGAN: Layer-Wise Eigen-Learning for GANs|[[linl]](https://arxiv.org/pdf/2104.12476.pdf)|ICCV|
+|Labels4Free: Unsupervised Segmentation using StyleGAN|[[link]](https://arxiv.org/pdf/2103.14968.pdf)|ICCV|
 |3DStyleNet: Creating 3D Shapes with Geometric and Texture Style Variations|[[link]](https://nv-tlabs.github.io/3DStyleNet/assets/3dstyle-paper.pdf)|ICCV|
 |Frequency Domain Image Translation: More Photo-realistic, Better Identity-preserving|[[link]](https://arxiv.org/pdf/2011.13611.pdf)|ICCV|
 |ILVR: Conditioning Method for Denoising Diffusion Probabilistic Models|[[link]](https://arxiv.org/pdf/2108.02938.pdf)|ICCV|
@@ -29,7 +33,6 @@ This repository aims to collect cool generative models published in main AI conf
 |StyleCariGAN:Caricature Generation via StyleGAN Feature Map Modulation|[[link](https://github.com/PeterZhouSZ/StyleCariGAN)]|SIGGRAPH|
 |Only a Matter of Style: Age Transformation Using a Style-Based Regression Model|[[link]](https://arxiv.org/pdf/2102.02754.pdf)|SIGGRAPH|
 |Designing an Encoder for StyleGAN Image Manipulation|[[link]](https://arxiv.org/pdf/2102.02766.pdf)|SIGGRAPH|
-|StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery|[[link]](https://arxiv.org/pdf/2103.17249.pdf)|-|
 |One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing|[[link]](https://arxiv.org/abs/2011.15126)|CVPR|
 |Few-shot Image Generation via Cross-domain Correspondence|[[link](https://arxiv.org/pdf/2104.06820.pdf)]|CVPR|
 |HistoGAN: Controlling Colors of GAN-Generated and Real Images via Color Histograms| [[link]](https://arxiv.org/pdf/2011.11731.pdf)| CVPR|
