@@ -6,6 +6,7 @@ This repository aims to collect cool generative models published in main AI conf
 ## 2021
 | Title | link | Venue|
 | :-----|:-----|:-----|
+|The Animation Transformer: Visual Correspondence via Segment Matching|[[link]](https://arxiv.org/pdf/2109.02614.pdf)|ICCV|
 |Disentangled Lifespan Face Synthesis|[[link]](https://arxiv.org/pdf/2108.02874.pdf)|ICCV|
 |StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery|[[link]](https://arxiv.org/pdf/2103.17249.pdf)|ICCV|
 |From Continuity to Editability: Inverting GANs with Consecutive Images|[[link]](https://arxiv.org/pdf/2107.13812.pdf)|ICCV|
