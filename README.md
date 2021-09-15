@@ -4,7 +4,7 @@ This repository aims to collect cool generative models published in main AI conf
 
 *NOTE:* If your paper is not in the list, plese feel free to [raise an issue](https://github.com/SenHe/Cool-GAN-Works/issues) or drop me an [e-mail](mailto:senhe752@gmail.com?subject=[GitHub]%fewshot%papers).
 
-BTW, I found this [blog](https://jmtomczak.github.io/blog.html) is a great place to learn all kinds of generative models.
+BTW, this [blog](https://jmtomczak.github.io/blog.html) is a great place to learn all kinds of generative models.
 
 ## 2021
 | Title | link | Venue|
