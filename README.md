@@ -9,6 +9,7 @@ BTW, I found this [blog](https://jmtomczak.github.io/blog.html) is a great place
 ## 2021
 | Title | link | Venue|
 | :-----|:-----|:-----|
+|Instance-Conditioned GAN|[[link]](https://arxiv.org/pdf/2109.05070.pdf)|-|
 |The Animation Transformer: Visual Correspondence via Segment Matching|[[link]](https://arxiv.org/pdf/2109.02614.pdf)|ICCV|
 |Disentangled Lifespan Face Synthesis|[[link]](https://arxiv.org/pdf/2108.02874.pdf)|ICCV|
 |StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery|[[link]](https://arxiv.org/pdf/2103.17249.pdf)|ICCV|
