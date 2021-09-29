@@ -9,13 +9,15 @@ BTW, this [blog](https://jmtomczak.github.io/blog.html) is a great place to lear
 ## 2021
 | Title | link | Venue|
 | :-----|:-----|:-----|
+|D2C: Diffusion-Decoding Models for Few-Shot Conditional Generation|[[link]](https://arxiv.org/pdf/2106.06819.pdf)|NeurIPS|
 |FreeStyleGAN: Free-view Editable Portrait Rendering with the Camera Manifold|[[link]](https://www-sop.inria.fr/reves/Basilic/2021/LD21/freestylegan_paper.pdf)|SIGGRAPH Asia|
 |Instance-Conditioned GAN|[[link]](https://arxiv.org/pdf/2109.05070.pdf)|-|
+|WarpedGANSpace: Finding non-linear RBF paths in GAN latent space|[[link]](https://arxiv.org/pdf/2109.13357.pdf)|ICCV|
 |The Animation Transformer: Visual Correspondence via Segment Matching|[[link]](https://arxiv.org/pdf/2109.02614.pdf)|ICCV|
 |Disentangled Lifespan Face Synthesis|[[link]](https://arxiv.org/pdf/2108.02874.pdf)|ICCV|
 |StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery|[[link]](https://arxiv.org/pdf/2103.17249.pdf)|ICCV|
 |From Continuity to Editability: Inverting GANs with Consecutive Images|[[link]](https://arxiv.org/pdf/2107.13812.pdf)|ICCV|
-|EigenGAN: Layer-Wise Eigen-Learning for GANs|[[linl]](https://arxiv.org/pdf/2104.12476.pdf)|ICCV|
+|EigenGAN: Layer-Wise Eigen-Learning for GANs|[[link]](https://arxiv.org/pdf/2104.12476.pdf)|ICCV|
 |Labels4Free: Unsupervised Segmentation using StyleGAN|[[link]](https://arxiv.org/pdf/2103.14968.pdf)|ICCV|
 |3DStyleNet: Creating 3D Shapes with Geometric and Texture Style Variations|[[link]](https://nv-tlabs.github.io/3DStyleNet/assets/3dstyle-paper.pdf)|ICCV|
 |Frequency Domain Image Translation: More Photo-realistic, Better Identity-preserving|[[link]](https://arxiv.org/pdf/2011.13611.pdf)|ICCV|
