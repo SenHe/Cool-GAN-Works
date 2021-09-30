@@ -9,7 +9,7 @@ BTW, this [blog](https://jmtomczak.github.io/blog.html) is a great place to lear
 ## 2021
 | Title | link | Venue|
 | :-----|:-----|:-----|
-||[[link]]()|NeurIPS|
+|NCP-VAE: VARIATIONAL AUTOENCODERS WITH NOISE CONTRASTIVE PRIORS|[[link]](https://arxiv.org/pdf/2010.02917.pdf)|NeurIPS|
 |D2C: Diffusion-Decoding Models for Few-Shot Conditional Generation|[[link]](https://arxiv.org/pdf/2106.06819.pdf)|NeurIPS|
 |FreeStyleGAN: Free-view Editable Portrait Rendering with the Camera Manifold|[[link]](https://www-sop.inria.fr/reves/Basilic/2021/LD21/freestylegan_paper.pdf)|SIGGRAPH Asia|
 |Instance-Conditioned GAN|[[link]](https://arxiv.org/pdf/2109.05070.pdf)|-|
@@ -35,7 +35,6 @@ BTW, this [blog](https://jmtomczak.github.io/blog.html) is a great place to lear
 |Zero-Shot non-adversarial domain adaptation of pre-trained generators|[[link]](https://github.com/rinongal/StyleGAN-nada)|-|
 |Alias-Free Generative Adversarial Networks|[[link]](https://nvlabs-fi-cdn.nvidia.com/alias-free-gan/alias-free-gan-paper.pdf)|-|
 |InfinityGAN: Towards Infinite-Resolution Image Synthesis|[[link]](https://arxiv.org/pdf/2104.03963.pdf)|-|
-|D2C: Diffusion-Decoding Models for Few-Shot Conditional Generation|[[link]](https://arxiv.org/pdf/2106.06819.pdf)|-|
 |GANs N’ Roses: Stable, Controllable, Diverse Image to Image Translation (works for videos too!)|[[link]](https://arxiv.org/pdf/2106.06561.pdf)|-|
 |Paint by Word|[[link]](https://arxiv.org/pdf/2103.10951.pdf)|-|
 |Coarse-to-Fine: Facial Structure Editing of Portrait Images via Latent Space Classifications|[[link]](http://www.cad.zju.edu.cn/home/jin/sig2021/sig2021.htm)|SIGGRAPH|
