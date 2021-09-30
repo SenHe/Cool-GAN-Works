@@ -9,6 +9,7 @@ BTW, this [blog](https://jmtomczak.github.io/blog.html) is a great place to lear
 ## 2021
 | Title | link | Venue|
 | :-----|:-----|:-----|
+||[[link]]()|NeurIPS|
 |D2C: Diffusion-Decoding Models for Few-Shot Conditional Generation|[[link]](https://arxiv.org/pdf/2106.06819.pdf)|NeurIPS|
 |FreeStyleGAN: Free-view Editable Portrait Rendering with the Camera Manifold|[[link]](https://www-sop.inria.fr/reves/Basilic/2021/LD21/freestylegan_paper.pdf)|SIGGRAPH Asia|
 |Instance-Conditioned GAN|[[link]](https://arxiv.org/pdf/2109.05070.pdf)|-|
