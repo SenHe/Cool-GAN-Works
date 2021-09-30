@@ -9,6 +9,7 @@ BTW, this [blog](https://jmtomczak.github.io/blog.html) is a great place to lear
 ## 2021
 | Title | link | Venue|
 | :-----|:-----|:-----|
+|Score-based Generative Modeling in Latent Space|[[link]](https://arxiv.org/pdf/2106.05931.pdf)|NeurIPS|
 |NCP-VAE: VARIATIONAL AUTOENCODERS WITH NOISE CONTRASTIVE PRIORS|[[link]](https://arxiv.org/pdf/2010.02917.pdf)|NeurIPS|
 |D2C: Diffusion-Decoding Models for Few-Shot Conditional Generation|[[link]](https://arxiv.org/pdf/2106.06819.pdf)|NeurIPS|
 |FreeStyleGAN: Free-view Editable Portrait Rendering with the Camera Manifold|[[link]](https://www-sop.inria.fr/reves/Basilic/2021/LD21/freestylegan_paper.pdf)|SIGGRAPH Asia|
