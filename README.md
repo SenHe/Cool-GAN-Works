@@ -14,6 +14,7 @@ BTW, this [blog](https://jmtomczak.github.io/blog.html) is a great place to lear
 |D2C: Diffusion-Decoding Models for Few-Shot Conditional Generation|[[link]](https://arxiv.org/pdf/2106.06819.pdf)|NeurIPS|
 |FreeStyleGAN: Free-view Editable Portrait Rendering with the Camera Manifold|[[link]](https://www-sop.inria.fr/reves/Basilic/2021/LD21/freestylegan_paper.pdf)|SIGGRAPH Asia|
 |Instance-Conditioned GAN|[[link]](https://arxiv.org/pdf/2109.05070.pdf)|-|
+|Latent Transformations via NeuralODEs for GAN-Based Image Editing|[[link]](https://github.com/KhrulkovV/nonlinear-image-editing)|ICCV|
 |WarpedGANSpace: Finding non-linear RBF paths in GAN latent space|[[link]](https://arxiv.org/pdf/2109.13357.pdf)|ICCV|
 |The Animation Transformer: Visual Correspondence via Segment Matching|[[link]](https://arxiv.org/pdf/2109.02614.pdf)|ICCV|
 |Disentangled Lifespan Face Synthesis|[[link]](https://arxiv.org/pdf/2108.02874.pdf)|ICCV|
