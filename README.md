@@ -6,6 +6,8 @@ This repository aims to collect cool generative models published in main AI conf
 
 BTW, this [blog](https://jmtomczak.github.io/blog.html) is a great place to learn all kinds of generative models.
 
+Some excellent blogs in 3D [blog](https://dellaert.github.io/NeRF/), [blog](https://dellaert.github.io/NeRF21/).
+
 ## 2021
 | Title | link | Venue|
 | :-----|:-----|:-----|
