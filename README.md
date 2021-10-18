@@ -17,7 +17,7 @@ Some excellent blogs in 3D [blog](https://dellaert.github.io/NeRF/), [blog](http
 |FreeStyleGAN: Free-view Editable Portrait Rendering with the Camera Manifold|[[link]](https://www-sop.inria.fr/reves/Basilic/2021/LD21/freestylegan_paper.pdf)|SIGGRAPH Asia|
 |Instance-Conditioned GAN|[[link]](https://arxiv.org/pdf/2109.05070.pdf)|-|
 |Learning Realistic Human Reposing using Cyclic Self-Supervision with 3D Shape, Pose, and Appearance Consistency|[[link]](https://openaccess.thecvf.com/content/ICCV2021/papers/Sanyal_Learning_Realistic_Human_Reposing_Using_Cyclic_Self-Supervision_With_3D_Shape_ICCV_2021_paper.pdf)|ICCV|
-|Dressing in Order: Recurrent Person Image Generation for Pose Transfer, Virtual Try-on and Outfit Editing|[[link]](https://openaccess.thecvf.com/content/CVPR2021W/CVFAD/papers/Cui_Dressing_in_Order_Recurrent_Person_Image_Generation_for_Pose_Transfer_CVPRW_2021_paper.pdf)|ICCV|
+|Dressing in Order: Recurrent Person Image Generation for Pose Transfer, Virtual Try-on and Outfit Editing|[[link]](https://arxiv.org/pdf/2104.07021.pdf)|ICCV|
 |Latent Transformations via NeuralODEs for GAN-Based Image Editing|[[link]](https://github.com/KhrulkovV/nonlinear-image-editing)|ICCV|
 |WarpedGANSpace: Finding non-linear RBF paths in GAN latent space|[[link]](https://arxiv.org/pdf/2109.13357.pdf)|ICCV|
 |The Animation Transformer: Visual Correspondence via Segment Matching|[[link]](https://arxiv.org/pdf/2109.02614.pdf)|ICCV|
