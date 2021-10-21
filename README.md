@@ -16,6 +16,7 @@ Some excellent blogs in 3D [blog](https://dellaert.github.io/NeRF/), [blog](http
 |D2C: Diffusion-Decoding Models for Few-Shot Conditional Generation|[[link]](https://arxiv.org/pdf/2106.06819.pdf)|NeurIPS|
 |FreeStyleGAN: Free-view Editable Portrait Rendering with the Camera Manifold|[[link]](https://www-sop.inria.fr/reves/Basilic/2021/LD21/freestylegan_paper.pdf)|SIGGRAPH Asia|
 |Instance-Conditioned GAN|[[link]](https://arxiv.org/pdf/2109.05070.pdf)|-|
+|Detail Me More: Improving GAN’s photo-realism of complex scenes|[[link]](https://openaccess.thecvf.com/content/ICCV2021/papers/Gadde_Detail_Me_More_Improving_GANs_Photo-Realism_of_Complex_Scenes_ICCV_2021_paper.pdf)|ICCV|
 |Learning Realistic Human Reposing using Cyclic Self-Supervision with 3D Shape, Pose, and Appearance Consistency|[[link]](https://openaccess.thecvf.com/content/ICCV2021/papers/Sanyal_Learning_Realistic_Human_Reposing_Using_Cyclic_Self-Supervision_With_3D_Shape_ICCV_2021_paper.pdf)|ICCV|
 |Dressing in Order: Recurrent Person Image Generation for Pose Transfer, Virtual Try-on and Outfit Editing|[[link]](https://arxiv.org/pdf/2104.07021.pdf)|ICCV|
 |Latent Transformations via NeuralODEs for GAN-Based Image Editing|[[link]](https://github.com/KhrulkovV/nonlinear-image-editing)|ICCV|
