@@ -11,6 +11,7 @@ Some excellent blogs in 3D [blog](https://dellaert.github.io/NeRF/), [blog](http
 ## 2021
 | Title | link | Venue|
 | :-----|:-----|:-----|
+|BlendGAN: Implicitly GAN Blending for Arbitrary Stylized Face Generation|[[link]](https://arxiv.org/pdf/2110.11728.pdf)|NeurIPS|
 |Score-based Generative Modeling in Latent Space|[[link]](https://arxiv.org/pdf/2106.05931.pdf)|NeurIPS|
 |NCP-VAE: VARIATIONAL AUTOENCODERS WITH NOISE CONTRASTIVE PRIORS|[[link]](https://arxiv.org/pdf/2010.02917.pdf)|NeurIPS|
 |D2C: Diffusion-Decoding Models for Few-Shot Conditional Generation|[[link]](https://arxiv.org/pdf/2106.06819.pdf)|NeurIPS|
