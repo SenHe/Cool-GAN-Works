@@ -15,6 +15,7 @@ Some excellent blogs in 3D [blog](https://dellaert.github.io/NeRF/), [blog](http
 |Score-based Generative Modeling in Latent Space|[[link]](https://arxiv.org/pdf/2106.05931.pdf)|NeurIPS|
 |NCP-VAE: VARIATIONAL AUTOENCODERS WITH NOISE CONTRASTIVE PRIORS|[[link]](https://arxiv.org/pdf/2010.02917.pdf)|NeurIPS|
 |D2C: Diffusion-Decoding Models for Few-Shot Conditional Generation|[[link]](https://arxiv.org/pdf/2106.06819.pdf)|NeurIPS|
+|Modeling Clothing as a Separate Layer for an Animatable Human Avatar|[[link]](https://arxiv.org/pdf/2106.14879.pdf)|SIGGRAPH Asia|
 |FreeStyleGAN: Free-view Editable Portrait Rendering with the Camera Manifold|[[link]](https://www-sop.inria.fr/reves/Basilic/2021/LD21/freestylegan_paper.pdf)|SIGGRAPH Asia|
 |Instance-Conditioned GAN|[[link]](https://arxiv.org/pdf/2109.05070.pdf)|-|
 |Detail Me More: Improving GAN’s photo-realism of complex scenes|[[link]](https://openaccess.thecvf.com/content/ICCV2021/papers/Gadde_Detail_Me_More_Improving_GANs_Photo-Realism_of_Complex_Scenes_ICCV_2021_paper.pdf)|ICCV|
