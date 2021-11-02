@@ -11,8 +11,8 @@ Some excellent blogs in 3D [blog](https://dellaert.github.io/NeRF/), [blog](http
 ## 2021
 | Title | link | Venue|
 | :-----|:-----|:-----|
-|On the Frequency Bias of Generative Models|[link](http://www.cvlibs.net/publications/Schwarz2021NEURIPS.pdf)|NeurIPS|
-|Projected GANs Converge Faster|[link](http://www.cvlibs.net/publications/Sauer2021NEURIPS.pdf)|NeurIPS|
+|On the Frequency Bias of Generative Models|[[link]](http://www.cvlibs.net/publications/Schwarz2021NEURIPS.pdf)|NeurIPS|
+|Projected GANs Converge Faster|[[link]](http://www.cvlibs.net/publications/Sauer2021NEURIPS.pdf)|NeurIPS|
 |BlendGAN: Implicitly GAN Blending for Arbitrary Stylized Face Generation|[[link]](https://arxiv.org/pdf/2110.11728.pdf)|NeurIPS|
 |Score-based Generative Modeling in Latent Space|[[link]](https://arxiv.org/pdf/2106.05931.pdf)|NeurIPS|
 |NCP-VAE: VARIATIONAL AUTOENCODERS WITH NOISE CONTRASTIVE PRIORS|[[link]](https://arxiv.org/pdf/2010.02917.pdf)|NeurIPS|
