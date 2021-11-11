@@ -69,3 +69,4 @@ Some excellent blogs in 3D [blog](https://dellaert.github.io/NeRF/), [blog](http
 |PISE: Person Image Synthesis and Editing with Decoupled GAN| [[link]](https://arxiv.org/pdf/2103.04023.pdf)|CVPR|
 |Normalized Avatar Synthesis Using StyleGAN and Perceptual Refinement| [[link]](https://qingguo-xu.com/doc/Normalized_3D_Avatar.pdf)|CVPR|
 |MUST-GAN: Multi-level Statistics Transfer for Self-driven Person Image Generation| [[link]](https://arxiv.org/pdf/2011.09084.pdf)|CVPR|
+|SCORE-BASED GENERATIVE MODELING THROUGH STOCHASTIC DIFFERENTIAL EQUATIONS|[[link]](https://openreview.net/pdf?id=PxTIG12RRHS)|ICLR|
