@@ -11,6 +11,7 @@ Some excellent blogs in 3D [blog](https://dellaert.github.io/NeRF/), [blog](http
 ## 2021
 | Title | link | Venue|
 | :-----|:-----|:-----|
+|AnimeCeleb: Large-Scale Animation CelebFaces Dataset via Controllable 3D Synthetic Models|[[link]](https://arxiv.org/pdf/2111.07640.pdf)|-|
 |LATENT IMAGE ANIMATOR: LEARNING TO ANIMATE IMAGE VIA LATENT SPACE NAVIGATION|[[link]](https://openreview.net/pdf?id=7r6kDq0mK_)|ICLR (under review)|
 |On the Frequency Bias of Generative Models|[[link]](http://www.cvlibs.net/publications/Schwarz2021NEURIPS.pdf)|NeurIPS|
 |Projected GANs Converge Faster|[[link]](http://www.cvlibs.net/publications/Sauer2021NEURIPS.pdf)|NeurIPS|
