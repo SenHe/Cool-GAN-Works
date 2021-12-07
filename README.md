@@ -11,6 +11,7 @@ Some excellent blogs in 3D [blog](https://dellaert.github.io/NeRF/), [blog](http
 ## 2021
 | Title | link | Venue|
 | :-----|:-----|:-----|
+|Improving GAN Equilibrium by Raising Spatial Awareness|[[link]](https://arxiv.org/pdf/2112.00718.pdf)|-|
 |Vector Quantized Diffusion Model for Text-to-Image Synthesis|[[link]](https://arxiv.org/pdf/2111.14822.pdf)|-|
 |AnimeCeleb: Large-Scale Animation CelebFaces Dataset via Controllable 3D Synthetic Models|[[link]](https://arxiv.org/pdf/2111.07640.pdf)|-|
 |LATENT IMAGE ANIMATOR: LEARNING TO ANIMATE IMAGE VIA LATENT SPACE NAVIGATION|[[link]](https://openreview.net/pdf?id=7r6kDq0mK_)|ICLR (under review)|
