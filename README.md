@@ -17,6 +17,7 @@ Some excellent blogs in 3D [blog](https://dellaert.github.io/NeRF/), [blog](http
 |LATENT IMAGE ANIMATOR: LEARNING TO ANIMATE IMAGE VIA LATENT SPACE NAVIGATION|[[link]](https://openreview.net/pdf?id=7r6kDq0mK_)|ICLR (under review)|
 |Diffusion Models Beat GANs on Image Synthesis|[[link]](https://proceedings.neurips.cc/paper/2021/file/49ad23d1ec9fa4bd8d77d02681df5cfa-Paper.pdf)|NeurIPS|
 |Towards Scalable Unpaired Virtual Try-On via Patch-Routed Spatially-Adaptive GAN|[[link]](https://papers.nips.cc/paper/2021/file/151de84cca69258b17375e2f44239191-Paper.pdf)|NeurIPS|
+|Instance-Conditioned GAN|[[link]](https://arxiv.org/pdf/2109.05070.pdf)|-|
 |On the Frequency Bias of Generative Models|[[link]](http://www.cvlibs.net/publications/Schwarz2021NEURIPS.pdf)|NeurIPS|
 |Projected GANs Converge Faster|[[link]](http://www.cvlibs.net/publications/Sauer2021NEURIPS.pdf)|NeurIPS|
 |BlendGAN: Implicitly GAN Blending for Arbitrary Stylized Face Generation|[[link]](https://arxiv.org/pdf/2110.11728.pdf)|NeurIPS|
@@ -25,7 +26,6 @@ Some excellent blogs in 3D [blog](https://dellaert.github.io/NeRF/), [blog](http
 |D2C: Diffusion-Decoding Models for Few-Shot Conditional Generation|[[link]](https://arxiv.org/pdf/2106.06819.pdf)|NeurIPS|
 |Modeling Clothing as a Separate Layer for an Animatable Human Avatar|[[link]](https://arxiv.org/pdf/2106.14879.pdf)|SIGGRAPH Asia|
 |FreeStyleGAN: Free-view Editable Portrait Rendering with the Camera Manifold|[[link]](https://www-sop.inria.fr/reves/Basilic/2021/LD21/freestylegan_paper.pdf)|SIGGRAPH Asia|
-|Instance-Conditioned GAN|[[link]](https://arxiv.org/pdf/2109.05070.pdf)|-|
 |Detail Me More: Improving GAN’s photo-realism of complex scenes|[[link]](https://openaccess.thecvf.com/content/ICCV2021/papers/Gadde_Detail_Me_More_Improving_GANs_Photo-Realism_of_Complex_Scenes_ICCV_2021_paper.pdf)|ICCV|
 |Learning Realistic Human Reposing using Cyclic Self-Supervision with 3D Shape, Pose, and Appearance Consistency|[[link]](https://openaccess.thecvf.com/content/ICCV2021/papers/Sanyal_Learning_Realistic_Human_Reposing_Using_Cyclic_Self-Supervision_With_3D_Shape_ICCV_2021_paper.pdf)|ICCV|
 |Dressing in Order: Recurrent Person Image Generation for Pose Transfer, Virtual Try-on and Outfit Editing|[[link]](https://arxiv.org/pdf/2104.07021.pdf)|ICCV|
