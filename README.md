@@ -17,7 +17,7 @@ Some excellent blogs in 3D [blog](https://dellaert.github.io/NeRF/), [blog](http
 |LATENT IMAGE ANIMATOR: LEARNING TO ANIMATE IMAGE VIA LATENT SPACE NAVIGATION|[[link]](https://openreview.net/pdf?id=7r6kDq0mK_)|ICLR (under review)|
 |Diffusion Models Beat GANs on Image Synthesis|[[link]](https://proceedings.neurips.cc/paper/2021/file/49ad23d1ec9fa4bd8d77d02681df5cfa-Paper.pdf)|NeurIPS|
 |Towards Scalable Unpaired Virtual Try-On via Patch-Routed Spatially-Adaptive GAN|[[link]](https://papers.nips.cc/paper/2021/file/151de84cca69258b17375e2f44239191-Paper.pdf)|NeurIPS|
-|Instance-Conditioned GAN|[[link]](https://arxiv.org/pdf/2109.05070.pdf)|-|
+|Instance-Conditioned GAN|[[link]](https://arxiv.org/pdf/2109.05070.pdf)|NeurIPS|
 |On the Frequency Bias of Generative Models|[[link]](http://www.cvlibs.net/publications/Schwarz2021NEURIPS.pdf)|NeurIPS|
 |Projected GANs Converge Faster|[[link]](http://www.cvlibs.net/publications/Sauer2021NEURIPS.pdf)|NeurIPS|
 |BlendGAN: Implicitly GAN Blending for Arbitrary Stylized Face Generation|[[link]](https://arxiv.org/pdf/2110.11728.pdf)|NeurIPS|
