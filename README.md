@@ -11,6 +11,7 @@ Some excellent blogs in 3D [blog](https://dellaert.github.io/NeRF/), [blog](http
 ## 2021
 | Title | link | Venue|
 | :-----|:-----|:-----|
+|GRAM: Generative Radiance Manifolds for 3D-Aware Image Generation|[[link]](https://arxiv.org/pdf/2112.08867v1.pdf)|-|
 |Improving GAN Equilibrium by Raising Spatial Awareness|[[link]](https://arxiv.org/pdf/2112.00718.pdf)|-|
 |Vector Quantized Diffusion Model for Text-to-Image Synthesis|[[link]](https://arxiv.org/pdf/2111.14822.pdf)|-|
 |AnimeCeleb: Large-Scale Animation CelebFaces Dataset via Controllable 3D Synthetic Models|[[link]](https://arxiv.org/pdf/2111.07640.pdf)|-|
