@@ -7,7 +7,10 @@ This repository aims to collect cool generative models published in main AI conf
 BTW, [blog1](https://jmtomczak.github.io/blog.html) and [blog2](https://yang-song.github.io/blog/2021/score/) are great places to learn all kinds of generative models.
 
 Some excellent blogs in 3D [blog](https://dellaert.github.io/NeRF/), [blog](https://dellaert.github.io/NeRF21/).
-
+## 2022
+| Title | link | Venue|
+| :-----|:-----|:-----|
+|StyleSwin: Transformer-based GAN for High-resolution Image Generation|[[link]](https://arxiv.org/pdf/2112.10762.pdf?ref=https://githubhelp.com)|-|
 ## 2021
 | Title | link | Venue|
 | :-----|:-----|:-----|
