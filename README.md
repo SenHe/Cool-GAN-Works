@@ -10,6 +10,7 @@ Some excellent blogs in 3D [blog](https://dellaert.github.io/NeRF/), [blog](http
 ## 2022
 | Title | link | Venue|
 | :-----|:-----|:-----|
+|StyleSDF: High-Resolution 3D-Consistent Image and Geometry Generation|[[link]](https://arxiv.org/pdf/2112.11427.pdf)|-|
 |StyleSwin: Transformer-based GAN for High-resolution Image Generation|[[link]](https://arxiv.org/pdf/2112.10762.pdf?ref=https://githubhelp.com)|-|
 ## 2021
 | Title | link | Venue|
