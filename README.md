@@ -7,6 +7,8 @@ This repository aims to collect cool generative models published in main AI conf
 BTW, [blog1](https://jmtomczak.github.io/blog.html) and [blog2](https://yang-song.github.io/blog/2021/score/) are great places to learn all kinds of generative models.
 
 Some excellent blogs in 3D [blog](https://dellaert.github.io/NeRF/), [blog](https://dellaert.github.io/NeRF21/).
+
+Deep learning resource: [foundations of deep learning](http://www.cs.umd.edu/class/fall2021/cmsc828W/),  [google colab](https://colab.research.google.com/drive/1ElEaLiW6PGyXObYGAdULk8ArGd8nLU7p?usp=sharing).
 ## 2022
 | Title | link | Venue|
 | :-----|:-----|:-----|
