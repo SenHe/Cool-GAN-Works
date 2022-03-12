@@ -15,6 +15,7 @@ Deep learning resource: [foundations of deep learning](http://www.cs.umd.edu/cla
 |Splicing ViT Features for Semantic Appearance Transfer|[[link]](https://arxiv.org/pdf/2201.00424.pdf)|CVPR|
 |StyleSDF: High-Resolution 3D-Consistent Image and Geometry Generation|[[link]](https://arxiv.org/pdf/2112.11427.pdf)|-|
 |StyleSwin: Transformer-based GAN for High-resolution Image Generation|[[link]](https://arxiv.org/pdf/2112.10762.pdf?ref=https://githubhelp.com)|-|
+|LATENT IMAGE ANIMATOR: LEARNING TO ANIMATE IMAGE VIA LATENT SPACE NAVIGATION|[[link]](https://openreview.net/pdf?id=7r6kDq0mK_)|ICLR|
 ## 2021
 | Title | link | Venue|
 | :-----|:-----|:-----|
@@ -22,7 +23,6 @@ Deep learning resource: [foundations of deep learning](http://www.cs.umd.edu/cla
 |Improving GAN Equilibrium by Raising Spatial Awareness|[[link]](https://arxiv.org/pdf/2112.00718.pdf)|-|
 |Vector Quantized Diffusion Model for Text-to-Image Synthesis|[[link]](https://arxiv.org/pdf/2111.14822.pdf)|-|
 |AnimeCeleb: Large-Scale Animation CelebFaces Dataset via Controllable 3D Synthetic Models|[[link]](https://arxiv.org/pdf/2111.07640.pdf)|-|
-|LATENT IMAGE ANIMATOR: LEARNING TO ANIMATE IMAGE VIA LATENT SPACE NAVIGATION|[[link]](https://openreview.net/pdf?id=7r6kDq0mK_)|ICLR (under review)|
 |Diffusion Models Beat GANs on Image Synthesis|[[link]](https://proceedings.neurips.cc/paper/2021/file/49ad23d1ec9fa4bd8d77d02681df5cfa-Paper.pdf)|NeurIPS|
 |Towards Scalable Unpaired Virtual Try-On via Patch-Routed Spatially-Adaptive GAN|[[link]](https://papers.nips.cc/paper/2021/file/151de84cca69258b17375e2f44239191-Paper.pdf)|NeurIPS|
 |Instance-Conditioned GAN|[[link]](https://arxiv.org/pdf/2109.05070.pdf)|NeurIPS|
