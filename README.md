@@ -12,6 +12,7 @@ Deep learning resource: [foundations of deep learning](http://www.cs.umd.edu/cla
 ## 2022
 | Title | link | Venue|
 | :-----|:-----|:-----|
+|Pastiche Master: Exemplar-Based High-Resolution Portrait Style Transfer|[[link]](https://arxiv.org/pdf/2203.13248.pdf)|CVPR|
 |InsetGAN for Full-Body Image Generation|[[link]](https://arxiv.org/pdf/2203.07293.pdf)|CVPR|
 |Splicing ViT Features for Semantic Appearance Transfer|[[link]](https://arxiv.org/pdf/2201.00424.pdf)|CVPR|
 |StyleSDF: High-Resolution 3D-Consistent Image and Geometry Generation|[[link]](https://arxiv.org/pdf/2112.11427.pdf)|-|
